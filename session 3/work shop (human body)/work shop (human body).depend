@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1561198521 source:e:\courses\embedded course\c programing\session 3\work shop (human body)\main.c
+	"headers.h"
+
+1561196782 source:e:\courses\embedded course\c programing\session 3\work shop (human body)\connection.c
+	"headers.h"
+
+1561193370 e:\courses\embedded course\c programing\session 3\work shop (human body)\parts.h
+
+1561196742 e:\courses\embedded course\c programing\session 3\work shop (human body)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	"Parts.h"
+	"prototype.h"
+	"macros.h"
+
+1561198432 e:\courses\embedded course\c programing\session 3\work shop (human body)\prototype.h
+
+1561198640 e:\courses\embedded course\c programing\session 3\work shop (human body)\macros.h
+
+1561196742 source:e:\courses\embedded course\c programing\session 3\work shop (human body)\move.c
+	"headers.h"
+
